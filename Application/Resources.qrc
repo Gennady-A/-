@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Resources/Icons/folder.svg</file>
+    <file>Resources/Icons/add-circle-outline.svg</file>
+    <file>Resources/Icons/arrow-back-outline.svg</file>
+    <file>Resources/Icons/arrow-forward-outline.svg</file>
+    <file>Resources/Icons/close-outline.svg</file>
+    <file>Resources/Icons/remove-circle-outline.svg</file>
+    <file>Resources/Icons/remove-outline.svg</file>
+    <file>Resources/Icons/resize-outline.svg</file>
+    <file>Resources/Icons/trash-outline.svg</file>
+  </qresource>
+  <qresource prefix="Logos">
+    <file>Resources/Logos/Logo_white.svg</file>
+    <file>Resources/Logos/Logo.svg</file>
+    <file>Resources/Logos/Logo_icon.png</file>
+  </qresource>
+  <qresource prefix="Backgrounds">
+    <file>Resources/Backgrounds/background.svg</file>
+    <file>Resources/Backgrounds/background_2.svg</file>
+    <file>Resources/Backgrounds/background_3.svg</file>
+  </qresource>
+</RCC>
